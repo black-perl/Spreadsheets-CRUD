@@ -9,7 +9,7 @@ A command line utility to provide you with basic CRUD(create,read,update &amp; d
 Basic Usage:
 ==================
 
-python spreadsheets_connect.py  ---user [username]
+python spreadsheets_connect.py  --user [username]
 
 
 Requirements:
