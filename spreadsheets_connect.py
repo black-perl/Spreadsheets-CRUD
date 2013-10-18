@@ -8,7 +8,7 @@ from gdata.spreadsheet.service import *
 from getopt import getopt,error
 from getpass import getpass
 import sys
-from prompter import CRUD
+from crud import CRUD
 
 
 #defining gloabal variables
