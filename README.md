@@ -1,4 +1,4 @@
--Spreadsheets-CRUD
+Spreadsheets-CRUD
 ==================
 
 A command line utility to provide you with basic CRUD(create,read,update &amp; delete) functionality for google spreadsheets.
